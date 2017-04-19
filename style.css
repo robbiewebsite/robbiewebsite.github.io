@@ -8,7 +8,7 @@ body{
 	margin: 0 auto;
 	padding-bottom:  14px;
 }
-.nav {
+#nav {
 	display: inline-block;
 	background: #ffffff;
 	width: 960px;
@@ -24,7 +24,6 @@ body{
 	margin: 0;
 	float: right;
 	padding: 0 40px 0 0;
-	color: black;
 	opacity: 0.8;
 	font-size: 14px;
 }
@@ -42,7 +41,8 @@ a:visited {
 	color: #563d7c;
 }
 a {
-	text-decoration:none
+	text-decoration:none；
+	color: #563d7c;
 }
 ul {
 	list-style: none;
