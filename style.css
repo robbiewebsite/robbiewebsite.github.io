@@ -223,10 +223,10 @@ h1 {
 	position: absolute;
 	top: 0;
 	left: 0;
-	z-index: -1;
+	display: none;
 }
 .show1:hover .pictureshow2 {
-	z-index: 0;
+	display: block;
 
 }
 .work-more {
