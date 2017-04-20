@@ -61,8 +61,9 @@ ul {
 	font-size: 24px;
 	font-weight: lighter;
 	color: #ffffff;	
-	padding-top: 200px;
 	text-align: center;
+	display: block;
+	padding-top: 50px;
     
 }
 .hi {
@@ -84,10 +85,10 @@ h1 {
 	padding-top: 50px;
 }
 .banner-picture {
-	float: right;
-	height: 457px;
-	width: 450px;
-	padding: 50px 50px 0 0;
+	height: 120px;
+	display: block;
+	margin: 0 auto;
+	padding-top: 100px;
 }
 #artical-bg-wihte {
     margin: 0 auto;
