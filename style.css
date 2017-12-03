@@ -139,36 +139,21 @@ h1 {
 }
 .workex-body {
 	width: 960px;
-	height: 400px;
 	margin: 0 auto;
+}
+.picturework {
+	width:960px;
+	text-align: center;
+
 }
 .workex1 {
 	width: 960px;
 	height: 280px;
 }
-.workex1-n1 {
-	width: 420px;
-	height: 280px;
-	float: right;
-}
-.workex1-n2 {
-	width: 420px;
-	height: 280px;
-	display: block;
-}
 .time {
 	font-weight: bold;
 	font-size: 20px;
 	color:#563d7c;
-}
-.workex1-nt {
-	font-size: 20px;
-	font-weight: bold;
-}
-.workex1-nzs {
-	font-size: 16px;
-	color: rgba(0,0,0,0.6);
-	font-weight: normal;
 }
 .pictures {
 	padding-bottom: 10px;
